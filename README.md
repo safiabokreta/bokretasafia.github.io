@@ -1,5 +1,5 @@
-Bokreta Safia - AI Engineer
-Summary
+#Bokreta Safia - AI Engineer
+#Summary
 Motivated third-year Artificial Intelligence student with a strong background in Python, machine learning, and data analysis.
 Currently seeking an internship opportunity to apply my skills in real-world AI projects and gain practical industry experience.
 
