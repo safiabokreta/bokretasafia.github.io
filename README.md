@@ -1,5 +1,3 @@
-<img src="assets/photo_5792078684071512561_y.jpg" alt="Profile Picture" width="200"/>
-
 # Bokreta Safia - AI Engineer
 
 ---
