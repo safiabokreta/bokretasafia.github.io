@@ -1,18 +1,18 @@
 # Bokreta Safia - AI Engineer
 
-
+---
 
 ## Summary
 Motivated third-year Artificial Intelligence student with a strong background in Python, machine learning, and data analysis.  
 Seeking an internship opportunity to apply my skills in real-world AI projects and gain practical industry experience.
 
-
+---
 
 ## Experience
 - Event Organizer — AIFA Tech Event (2024)
 - Event Organizer — Agriculture Tech Event (2024)
 
-
+---
 
 ## Certifications
 - Certificate in Data Analysis — Coursera (2024)  
